@@ -1,0 +1,21 @@
+.primary{
+    background-color: #D9E8FB;
+    border: 1px solid #607DA2;
+}
+
+.warning{
+    background-color: #F7CECC;
+    border: 1px solid #773E44;
+}
+
+.normal {
+    padding: 10px 15px;
+}
+
+.small {
+    padding: 2px 15px;
+}
+.Bnt{
+    cursor: pointer;
+    font-family: Calibri;
+}

@@ -1,0 +1,24 @@
+.cardList{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-gap: 30px;
+    justify-items: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.CardList{
+    background-color: #F5F5F5;
+    padding: 15px;
+    border: 1px solid #B2B2B2;
+}
+
+.buttons_wrapper{
+    display: flex;
+    justify-content: right;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}

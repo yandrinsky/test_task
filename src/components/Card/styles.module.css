@@ -1,0 +1,25 @@
+.Card{
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F5;
+    border: 1px solid #B2B2B2;
+    padding: 15px;
+}
+
+.buttons_wrapper{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Card h2{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.Card textarea{
+    resize: none;
+    margin-top: 20px;
+    height: 300px;
+    width: 100%;
+}
+
